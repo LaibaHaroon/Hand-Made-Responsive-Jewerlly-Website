@@ -1,0 +1,1 @@
+alert("welcome! to our website.Explore our unique,handcrafted jewelry pieces made with love and care.Enjoy your shopping experience!!!")
